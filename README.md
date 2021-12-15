@@ -31,5 +31,4 @@ const buttons: JSX.Element[] = [<button>1</button>, <button>2</button>];
 ```
 
 ## GeoJSON
-When adding GeoJSON make sure the FeatureCollection type is infered
-this type can be found in GeoJSONTypes.tsx
+When adding GeoJSON make sure the FeatureCollection type is infered, this type can be found in GeoJSONTypes.tsx
