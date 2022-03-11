@@ -16,7 +16,7 @@ https://www.mapbox.com/
 */
 
 // Access Token
-const TOKEN = "pk.eyJ1IjoibWFnbnVzd29haCIsImEiOiJja3ZnYmw3M3YwM2ZoMnZwZmUwb3VpNWo1In0.6CQ-xTI2fMJb3bVh7rI5kg";
+const TOKEN = "";
 
 
 /*
